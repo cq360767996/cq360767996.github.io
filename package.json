@@ -11,6 +11,7 @@
   "dependencies": {
     "@panelbear/panelbear-js": "^1.2.0",
     "lodash": "^4.17.21",
+    "vitepress": "^0.15.6",
     "vue": "^3.1.4",
     "zooming": "^2.1.1"
   },
@@ -18,16 +19,15 @@
     "@commitlint/cli": "^12.1.4",
     "@commitlint/config-conventional": "^12.1.4",
     "@tailwindcss/typography": "^0.4.1",
-    "@types/lodash": "^4.14.170",
+    "@types/lodash": "^4.14.171",
     "autoprefixer": "^10.2.6",
-    "husky": "^6.0.0",
+    "husky": "^7.0.1",
     "less": "^4.1.1",
     "lint-staged": "^11.0.0",
     "postcss": "^8.3.5",
     "prettier": "^2.3.2",
     "tailwindcss": "^2.2.4",
-    "vite": "^2.3.8",
-    "vitepress": "^0.14.1",
+    "vite": "^2.4.1",
     "vue-tsc": "^0.2.0"
   },
   "lint-staged": {

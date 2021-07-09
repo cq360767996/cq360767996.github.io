@@ -69,7 +69,7 @@ onMounted(() => {
   z-index: 1;
 
   &:hover {
-    color: lighten(#059669, 30%);
+    color: lighten(#059669, 10%);
   }
 }
 
